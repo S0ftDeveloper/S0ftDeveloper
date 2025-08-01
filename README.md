@@ -1,16 +1,16 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-**Возраст:** 23 года  
-**Род деятельности:** Преподаватель программирования в школе  
-**Сфера интересов:**  
-🎮 Разработка игр на Unity  
-🤖 Машинное обучение (ML)  
-💻 Обучение основам программирования и веб-разработки  
+*Age:** 23 years old 
+**Occupation:** Programming teacher at a school 
+**Area of interest:** 
+🎮 Game development on Unity 
+🤖 Machine learning (ML) 
+💻 Teaching the basics of programming and web development 
 
-#### Обо мне:
-- Преподаю в школе программирования, где учу молодых ребят основам кодинга.  
-- Увлекаюсь созданием игр на движке Unity в свободное время.  
-- Обучаюсь на ML-разработчика, чтобы расширить свои навыки в области искусственного интеллекта.  
+#### About me:
+- I teach at a programming school, where I teach young people the basics of coding. 
+- I am passionate about creating games on the Unity engine in my free time. 
+- I'm studying to become an ML developer to expand my skills in the field of artificial intelligence. 
 
-Всегда открыт к сотрудничеству и интересным проектам! ✨ 
+ I'm always open to collaboration and interesting projects! ✨
