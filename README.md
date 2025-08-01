@@ -4,9 +4,9 @@
 
 #### About me:
 
-*Age:** 23 years old 
-**Occupation:** Programming teacher at a school 
-**Area of interest:** 
+- *Age:** 23 years old 
+- **Occupation:** Programming teacher at a school 
+- **Area of interest:** 
 🎮 Game development on Unity 
 🤖 Machine learning (ML) 
 💻 Teaching the basics of programming and web development 
