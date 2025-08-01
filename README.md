@@ -6,10 +6,10 @@
 
 - *Age:** 23 years old 
 - **Occupation:** Programming teacher at a school 
-- **Area of interest:** 
-🎮 Game development on Unity 	![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-🤖 Machine learning (ML) 
-💻 Teaching the basics of programming and web development 
+#### **Area of interest:** 
+- 🎮 Game development on Unity 	![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+- 🤖 Machine learning (ML) 
+- 💻 Teaching the basics of programming and web development 
 - I teach at a programming school, where I teach young people the basics of coding. 
 - I am passionate about creating games on the Unity engine in my free time. 
 - I'm studying to become an ML developer to expand my skills in the field of artificial intelligence. 
